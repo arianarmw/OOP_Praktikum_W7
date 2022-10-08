@@ -1,0 +1,5 @@
+package AnotherTypeOfEmployee;
+
+public class Hourly {
+
+}

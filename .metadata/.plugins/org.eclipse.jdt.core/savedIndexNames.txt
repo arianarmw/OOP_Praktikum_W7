@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\SEMESTER 3\Akademik\Pemrograman Berorientasi Objek\Praktikum\OOP_Praktikum_W7\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3011209426.index
+4083530874.index

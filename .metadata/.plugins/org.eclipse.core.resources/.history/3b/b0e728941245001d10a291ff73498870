@@ -1,0 +1,7 @@
+package PaintingShapes;
+
+import java.text.DecimalFormat; 
+
+public class PaintThings {
+
+}
